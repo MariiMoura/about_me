@@ -5,7 +5,7 @@ Recentemente concluí o ensino médio🎓 e por sorte já pude me matricular em 
 
 ## 📲 CONECTE-SE COMIGO! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariane-santana-de-moura-b687ba22a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariane-santana-de-moura) 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marii._.mouraa/profilecard/?igsh=OHFwYW9xeHF0bmYz)
 
